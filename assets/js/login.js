@@ -38,7 +38,7 @@ $(function(){
             {
                 return layer.msg(res.message);
             }
-            layer.msg('登录成功，请登录');
+            layer.msg('注册成功，请登录');
         })
         $('#link_login').click();
     })
